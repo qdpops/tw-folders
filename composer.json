@@ -1,0 +1,12 @@
+{
+    "name": "qdpops/tw-folders",
+    "description": "Companion plugin for the Breeze skin: folder icons and colors, folder rules without ManageSieve, attachment chips, contacts from mail",
+    "type": "roundcube-plugin",
+    "license": "GPL-3.0-or-later",
+    "keywords": ["roundcube", "plugin", "breeze", "folders", "rules"],
+    "homepage": "https://github.com/qdpops/roundcube-skin-breeze",
+    "require": {
+        "php": ">=7.3.0",
+        "roundcube/plugin-installer": ">=0.3.0"
+    }
+}
