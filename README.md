@@ -8,4 +8,4 @@ Folder icons and colors, folder rules applied by Roundcube itself (no ManageSiev
 composer require qdpops/breeze
 ```
 
-Roundcube 1.6, GPL-3.0-or-later.
+Roundcube 1.6 and 1.7, GPL-3.0-or-later.

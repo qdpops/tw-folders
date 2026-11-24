@@ -40,7 +40,7 @@ class tw_mail_book extends rcube_addressbook
     }
 
     // the filter is what search() matched: Roundcube keeps it in the session and lists pages of it
-    function set_search_set($filter)
+    function set_search_set($filter): void // void: required by 1.7's rcube_addressbook, allowed by 1.6
     {
         $this->filter = $filter;
     }
@@ -50,7 +50,7 @@ class tw_mail_book extends rcube_addressbook
         return $this->filter;
     }
 
-    function reset()
+    function reset(): void
     {
         $this->result = null;
         $this->filter = null;
