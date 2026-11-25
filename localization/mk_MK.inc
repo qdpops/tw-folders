@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Означи како непрочитано';
 $labels['empty_trash'] = 'Испразни го ѓубрето';
 $labels['page_size'] = 'Пораки по страница';
 $labels['to_top'] = 'На врвот';
+$labels['open_in_tab'] = 'Отвори во ново јазиче';
+$labels['create_filter'] = 'Создај филтер';
+$labels['sender_mail'] = 'Пораки од испраќачот';
+$labels['quick_reply'] = 'Одговори на пораката…';

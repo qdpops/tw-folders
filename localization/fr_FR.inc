@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Marquer comme non lu';
 $labels['empty_trash'] = 'Vider la corbeille';
 $labels['page_size'] = 'Messages par page';
 $labels['to_top'] = 'Haut de la liste';
+$labels['open_in_tab'] = 'Ouvrir dans un nouvel onglet';
+$labels['create_filter'] = 'Créer un filtre';
+$labels['sender_mail'] = 'Messages de l\'expéditeur';
+$labels['quick_reply'] = 'Répondre au message…';

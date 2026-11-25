@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Маркирай като непрочетено';
 $labels['empty_trash'] = 'Изпразни кошчето';
 $labels['page_size'] = 'Съобщения на страница';
 $labels['to_top'] = 'Към началото';
+$labels['open_in_tab'] = 'Отваряне в нов раздел';
+$labels['create_filter'] = 'Създаване на филтър';
+$labels['sender_mail'] = 'Писма от подателя';
+$labels['quick_reply'] = 'Отговор на писмото…';

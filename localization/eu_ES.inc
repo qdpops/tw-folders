@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Markatu irakurri gabe gisa';
 $labels['empty_trash'] = 'Hustu zakarrontzia';
 $labels['page_size'] = 'Mezuak orriko';
 $labels['to_top'] = 'Gora';
+$labels['open_in_tab'] = 'Ireki fitxa berrian';
+$labels['create_filter'] = 'Sortu iragazkia';
+$labels['sender_mail'] = 'Igorlearen mezuak';
+$labels['quick_reply'] = 'Erantzun mezuari…';

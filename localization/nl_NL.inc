@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Markeren als ongelezen';
 $labels['empty_trash'] = 'Prullenbak legen';
 $labels['page_size'] = 'Berichten per pagina';
 $labels['to_top'] = 'Naar boven';
+$labels['open_in_tab'] = 'Openen in nieuw tabblad';
+$labels['create_filter'] = 'Filter maken';
+$labels['sender_mail'] = 'Berichten van afzender';
+$labels['quick_reply'] = 'Op het bericht antwoorden…';

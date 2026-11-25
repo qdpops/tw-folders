@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Oznacz jako nieprzeczytane';
 $labels['empty_trash'] = 'Opróżnij kosz';
 $labels['page_size'] = 'Wiadomości na stronie';
 $labels['to_top'] = 'Na górę';
+$labels['open_in_tab'] = 'Otwórz w nowej karcie';
+$labels['create_filter'] = 'Utwórz filtr';
+$labels['sender_mail'] = 'Wiadomości od nadawcy';
+$labels['quick_reply'] = 'Odpowiedz na wiadomość…';

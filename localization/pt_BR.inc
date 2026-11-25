@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Marcar como não lida';
 $labels['empty_trash'] = 'Esvaziar lixeira';
 $labels['page_size'] = 'Mensagens por página';
 $labels['to_top'] = 'Voltar ao topo';
+$labels['open_in_tab'] = 'Abrir em nova aba';
+$labels['create_filter'] = 'Criar filtro';
+$labels['sender_mail'] = 'E-mails do remetente';
+$labels['quick_reply'] = 'Responder à mensagem…';

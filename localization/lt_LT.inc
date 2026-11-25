@@ -147,3 +147,7 @@ $labels['messages_few'] = 'žinutės';
 $labels['empty_trash'] = 'Išvalyti šiukšlinę';
 $labels['page_size'] = 'Žinučių puslapyje';
 $labels['to_top'] = 'Į viršų';
+$labels['open_in_tab'] = 'Atidaryti naujame skirtuke';
+$labels['create_filter'] = 'Sukurti filtrą';
+$labels['sender_mail'] = 'Siuntėjo laiškai';
+$labels['quick_reply'] = 'Atsakyti į laišką…';

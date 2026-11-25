@@ -146,3 +146,7 @@ $labels['mark_unread'] = '标为未读';
 $labels['empty_trash'] = '清空废件箱';
 $labels['page_size'] = '每页邮件数';
 $labels['to_top'] = '回到顶部';
+$labels['open_in_tab'] = '在新标签页中打开';
+$labels['create_filter'] = '创建过滤器';
+$labels['sender_mail'] = '此发件人的邮件';
+$labels['quick_reply'] = '回复此邮件…';

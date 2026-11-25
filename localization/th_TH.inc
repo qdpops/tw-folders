@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'ทำเครื่องหมายว่ายั
 $labels['empty_trash'] = 'ล้างถังขยะ';
 $labels['page_size'] = 'ข้อความต่อหน้า';
 $labels['to_top'] = 'กลับขึ้นด้านบน';
+$labels['open_in_tab'] = 'เปิดในแท็บใหม่';
+$labels['create_filter'] = 'สร้างตัวกรอง';
+$labels['sender_mail'] = 'อีเมลจากผู้ส่งนี้';
+$labels['quick_reply'] = 'ตอบกลับข้อความ…';

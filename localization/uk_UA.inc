@@ -147,3 +147,7 @@ $labels['messages_few'] = 'листи';
 $labels['empty_trash'] = 'Очистити кошик';
 $labels['page_size'] = 'Листів на сторінці';
 $labels['to_top'] = 'Угору';
+$labels['open_in_tab'] = 'Відкрити в новій вкладці';
+$labels['create_filter'] = 'Створити фільтр';
+$labels['sender_mail'] = 'Листи відправника';
+$labels['quick_reply'] = 'Відповісти на лист…';

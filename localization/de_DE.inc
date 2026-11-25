@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Als ungelesen markieren';
 $labels['empty_trash'] = 'Papierkorb leeren';
 $labels['page_size'] = 'Nachrichten pro Seite';
 $labels['to_top'] = 'Nach oben';
+$labels['open_in_tab'] = 'In neuem Tab öffnen';
+$labels['create_filter'] = 'Filter erstellen';
+$labels['sender_mail'] = 'Nachrichten des Absenders';
+$labels['quick_reply'] = 'Auf die Nachricht antworten…';

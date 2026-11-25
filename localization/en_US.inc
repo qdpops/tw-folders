@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Mark as unread';
 $labels['empty_trash'] = 'Empty trash';
 $labels['page_size'] = 'Messages per page';
 $labels['to_top'] = 'Back to top';
+$labels['open_in_tab'] = 'Open in a new tab';
+$labels['create_filter'] = 'Create a filter';
+$labels['sender_mail'] = 'Mail from this sender';
+$labels['quick_reply'] = 'Reply to the message…';

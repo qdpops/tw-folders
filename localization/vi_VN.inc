@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Đánh dấu là chưa đọc';
 $labels['empty_trash'] = 'Dọn sạch thùng rác';
 $labels['page_size'] = 'Số thư mỗi trang';
 $labels['to_top'] = 'Lên đầu';
+$labels['open_in_tab'] = 'Mở trong thẻ mới';
+$labels['create_filter'] = 'Tạo bộ lọc';
+$labels['sender_mail'] = 'Thư từ người gửi này';
+$labels['quick_reply'] = 'Trả lời thư…';

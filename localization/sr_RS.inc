@@ -147,3 +147,7 @@ $labels['messages_few'] = 'poruke';
 $labels['empty_trash'] = 'Isprazni korpu';
 $labels['page_size'] = 'Poruka po stranici';
 $labels['to_top'] = 'Na vrh';
+$labels['open_in_tab'] = 'Otvori u novoj kartici';
+$labels['create_filter'] = 'Napravi filter';
+$labels['sender_mail'] = 'Poruke pošiljaoca';
+$labels['quick_reply'] = 'Odgovori na poruku…';

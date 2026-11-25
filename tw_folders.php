@@ -45,6 +45,16 @@ class tw_folders extends rcube_plugin
             $rcmail->output->set_env('framed', 1);
         }
 
+        // the reply block under a message (breeze.js quick_reply, _tw_qr=1, kept in the compose session):
+        // the text goes above the quote, as in Timeweb
+        $qr_id = $rcmail->action == 'compose' ? rcube_utils::get_input_string('_id', rcube_utils::INPUT_GET) : '';
+        if ($qr_id !== '' && !empty($_SESSION['compose_data_' . $qr_id]['param']['tw_qr'])) {
+            if (intval($rcmail->config->get('reply_mode')) < 1) {
+                $rcmail->config->set('reply_mode', 1);
+            }
+            $rcmail->output->set_env('tw_qr', 1); // breeze.js folds the quote
+        }
+
         $this->add_texts('localization/', true); // the skin's templates and breeze.js use them on every page
         $rcmail->config->set('product_name', $this->gettext('product_name')); // config/custom.inc.php has one language
 
@@ -107,7 +117,7 @@ class tw_folders extends rcube_plugin
 
         // right-click menus of the skin (messages, folders) use Roundcube's own, already translated labels
         if ($rcmail->task == 'mail' && empty($rcmail->action)) {
-            $rcmail->output->add_label('reply', 'replyall', 'forward', 'delete', 'moveto', 'markread', 'markunread',
+            $rcmail->output->add_label('reply', 'replyall', 'forward', 'editasnew', 'delete', 'moveto', 'markread', 'markunread',
                 'markflagged', 'markunflagged', 'markallread', 'empty');
         }
 

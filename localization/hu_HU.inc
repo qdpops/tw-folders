@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Megjelölés olvasatlanként';
 $labels['empty_trash'] = 'Kuka ürítése';
 $labels['page_size'] = 'Üzenet oldalanként';
 $labels['to_top'] = 'Vissza a tetejére';
+$labels['open_in_tab'] = 'Megnyitás új lapon';
+$labels['create_filter'] = 'Szűrő létrehozása';
+$labels['sender_mail'] = 'A feladó levelei';
+$labels['quick_reply'] = 'Válasz az üzenetre…';

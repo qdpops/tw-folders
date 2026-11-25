@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Markera som oläst';
 $labels['empty_trash'] = 'Töm papperskorgen';
 $labels['page_size'] = 'Meddelanden per sida';
 $labels['to_top'] = 'Till toppen';
+$labels['open_in_tab'] = 'Öppna i ny flik';
+$labels['create_filter'] = 'Skapa filter';
+$labels['sender_mail'] = 'Mejl från avsändaren';
+$labels['quick_reply'] = 'Svara på meddelandet…';

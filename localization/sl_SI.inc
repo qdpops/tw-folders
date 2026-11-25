@@ -148,3 +148,7 @@ $labels['messages_few'] = 'sporočila';
 $labels['empty_trash'] = 'Izprazni koš';
 $labels['page_size'] = 'Sporočil na stran';
 $labels['to_top'] = 'Na vrh';
+$labels['open_in_tab'] = 'Odpri v novem zavihku';
+$labels['create_filter'] = 'Ustvari filter';
+$labels['sender_mail'] = 'Sporočila pošiljatelja';
+$labels['quick_reply'] = 'Odgovori na sporočilo…';

@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Märgi lugemata';
 $labels['empty_trash'] = 'Tühjenda prügikast';
 $labels['page_size'] = 'Sõnumeid lehel';
 $labels['to_top'] = 'Üles';
+$labels['open_in_tab'] = 'Ava uuel vahekaardil';
+$labels['create_filter'] = 'Loo filter';
+$labels['sender_mail'] = 'Saatja kirjad';
+$labels['quick_reply'] = 'Vasta kirjale…';

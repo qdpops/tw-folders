@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Merkitse lukemattomaksi';
 $labels['empty_trash'] = 'Tyhjennä roskakori';
 $labels['page_size'] = 'Viestejä sivulla';
 $labels['to_top'] = 'Takaisin ylös';
+$labels['open_in_tab'] = 'Avaa uudessa välilehdessä';
+$labels['create_filter'] = 'Luo suodatin';
+$labels['sender_mail'] = 'Lähettäjän viestit';
+$labels['quick_reply'] = 'Vastaa viestiin…';

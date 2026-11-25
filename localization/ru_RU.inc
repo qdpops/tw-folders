@@ -150,3 +150,7 @@ $labels['core_empty'] = 'Очистить';
 $labels['empty_trash'] = 'Очистить корзину';
 $labels['page_size'] = 'Писем на странице';
 $labels['to_top'] = 'Наверх';
+$labels['open_in_tab'] = 'Открыть в новой вкладке';
+$labels['create_filter'] = 'Создать фильтр';
+$labels['sender_mail'] = 'Письма отправителя';
+$labels['quick_reply'] = 'Ответить на письмо…';

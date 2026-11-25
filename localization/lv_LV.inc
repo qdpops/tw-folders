@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Atzīmēt kā nelasītu';
 $labels['empty_trash'] = 'Iztukšot miskasti';
 $labels['page_size'] = 'Ziņas lapā';
 $labels['to_top'] = 'Uz augšu';
+$labels['open_in_tab'] = 'Atvērt jaunā cilnē';
+$labels['create_filter'] = 'Izveidot filtru';
+$labels['sender_mail'] = 'Sūtītāja vēstules';
+$labels['quick_reply'] = 'Atbildēt uz vēstuli…';

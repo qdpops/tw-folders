@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Okunmadı olarak işaretle';
 $labels['empty_trash'] = 'Çöp kutusunu boşalt';
 $labels['page_size'] = 'Sayfa başına ileti';
 $labels['to_top'] = 'Başa dön';
+$labels['open_in_tab'] = 'Yeni sekmede aç';
+$labels['create_filter'] = 'Filtre oluştur';
+$labels['sender_mail'] = 'Gönderenin iletileri';
+$labels['quick_reply'] = 'İletiyi yanıtla…';

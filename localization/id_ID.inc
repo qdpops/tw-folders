@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Tandai belum dibaca';
 $labels['empty_trash'] = 'Kosongkan sampah';
 $labels['page_size'] = 'Pesan per halaman';
 $labels['to_top'] = 'Kembali ke atas';
+$labels['open_in_tab'] = 'Buka di tab baru';
+$labels['create_filter'] = 'Buat filter';
+$labels['sender_mail'] = 'Pesan dari pengirim ini';
+$labels['quick_reply'] = 'Balas pesan…';

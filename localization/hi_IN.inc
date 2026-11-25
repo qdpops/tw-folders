@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'अपठित के रूप में चिह�
 $labels['empty_trash'] = 'ट्रैश खाली करें';
 $labels['page_size'] = 'प्रति पृष्ठ संदेश';
 $labels['to_top'] = 'ऊपर जाएँ';
+$labels['open_in_tab'] = 'नए टैब में खोलें';
+$labels['create_filter'] = 'फ़िल्टर बनाएँ';
+$labels['sender_mail'] = 'इस प्रेषक के संदेश';
+$labels['quick_reply'] = 'संदेश का उत्तर दें…';

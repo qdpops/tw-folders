@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Marchează ca necitit';
 $labels['empty_trash'] = 'Golește coșul de gunoi';
 $labels['page_size'] = 'Mesaje pe pagină';
 $labels['to_top'] = 'Înapoi sus';
+$labels['open_in_tab'] = 'Deschide într-o filă nouă';
+$labels['create_filter'] = 'Creează un filtru';
+$labels['sender_mail'] = 'Mesajele expeditorului';
+$labels['quick_reply'] = 'Răspunde la mesaj…';

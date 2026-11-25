@@ -147,3 +147,7 @@ $labels['messages_few'] = 'správy';
 $labels['empty_trash'] = 'Vyprázdniť kôš';
 $labels['page_size'] = 'Správ na stránku';
 $labels['to_top'] = 'Nahor';
+$labels['open_in_tab'] = 'Otvoriť na novej karte';
+$labels['create_filter'] = 'Vytvoriť filter';
+$labels['sender_mail'] = 'Správy od odosielateľa';
+$labels['quick_reply'] = 'Odpovedať na správu…';

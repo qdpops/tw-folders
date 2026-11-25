@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Merk som ulest';
 $labels['empty_trash'] = 'Tøm papirkurven';
 $labels['page_size'] = 'Meldinger per side';
 $labels['to_top'] = 'Til toppen';
+$labels['open_in_tab'] = 'Åpne i ny fane';
+$labels['create_filter'] = 'Opprett filter';
+$labels['sender_mail'] = 'E-post fra avsenderen';
+$labels['quick_reply'] = 'Svar på meldingen…';

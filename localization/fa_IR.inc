@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'علامت‌گذاری به‌عنوان خوانده
 $labels['empty_trash'] = 'خالی کردن سطل زباله';
 $labels['page_size'] = 'پیام در هر صفحه';
 $labels['to_top'] = 'بازگشت به بالا';
+$labels['open_in_tab'] = 'باز کردن در زبانه جدید';
+$labels['create_filter'] = 'ایجاد پالایه';
+$labels['sender_mail'] = 'نامه‌های این فرستنده';
+$labels['quick_reply'] = 'پاسخ به نامه…';

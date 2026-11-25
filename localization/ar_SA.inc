@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'تعليم كغير مقروءة';
 $labels['empty_trash'] = 'إفراغ سلة المهملات';
 $labels['page_size'] = 'رسائل في الصفحة';
 $labels['to_top'] = 'إلى الأعلى';
+$labels['open_in_tab'] = 'فتح في علامة تبويب جديدة';
+$labels['create_filter'] = 'إنشاء عامل تصفية';
+$labels['sender_mail'] = 'رسائل هذا المرسل';
+$labels['quick_reply'] = 'الرد على الرسالة…';

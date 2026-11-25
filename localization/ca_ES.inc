@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Marca com a no llegit';
 $labels['empty_trash'] = 'Buida la paperera';
 $labels['page_size'] = 'Missatges per pàgina';
 $labels['to_top'] = 'Torna a dalt';
+$labels['open_in_tab'] = 'Obre en una pestanya nova';
+$labels['create_filter'] = 'Crea un filtre';
+$labels['sender_mail'] = 'Correus del remitent';
+$labels['quick_reply'] = 'Respon al missatge…';

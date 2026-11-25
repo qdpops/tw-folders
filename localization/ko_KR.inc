@@ -146,3 +146,7 @@ $labels['mark_unread'] = '읽지 않음으로 표시';
 $labels['empty_trash'] = '휴지통 비우기';
 $labels['page_size'] = '페이지당 메시지';
 $labels['to_top'] = '맨 위로';
+$labels['open_in_tab'] = '새 탭에서 열기';
+$labels['create_filter'] = '필터 만들기';
+$labels['sender_mail'] = '이 보낸 사람의 메일';
+$labels['quick_reply'] = '이 메일에 답장…';

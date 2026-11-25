@@ -146,3 +146,7 @@ $labels['mark_unread'] = '未読にする';
 $labels['empty_trash'] = 'ゴミ箱を空にする';
 $labels['page_size'] = '1ページの件数';
 $labels['to_top'] = '先頭へ';
+$labels['open_in_tab'] = '新しいタブで開く';
+$labels['create_filter'] = 'フィルターを作成';
+$labels['sender_mail'] = 'この差出人のメール';
+$labels['quick_reply'] = 'このメールに返信…';

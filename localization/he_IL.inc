@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'סימון כלא נקראה';
 $labels['empty_trash'] = 'ריקון האשפה';
 $labels['page_size'] = 'הודעות בעמוד';
 $labels['to_top'] = 'חזרה למעלה';
+$labels['open_in_tab'] = 'פתיחה בכרטיסייה חדשה';
+$labels['create_filter'] = 'יצירת מסנן';
+$labels['sender_mail'] = 'הודעות מהשולח';
+$labels['quick_reply'] = 'השבה להודעה…';

@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Merkja sem ólesið';
 $labels['empty_trash'] = 'Tæma ruslið';
 $labels['page_size'] = 'Skilaboð á síðu';
 $labels['to_top'] = 'Efst';
+$labels['open_in_tab'] = 'Opna í nýjum flipa';
+$labels['create_filter'] = 'Búa til síu';
+$labels['sender_mail'] = 'Póstur frá sendanda';
+$labels['quick_reply'] = 'Svara skilaboðunum…';

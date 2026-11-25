@@ -146,3 +146,7 @@ $labels['mark_unread'] = 'Σήμανση ως μη αναγνωσμένο';
 $labels['empty_trash'] = 'Άδειασμα κάδου';
 $labels['page_size'] = 'Μηνύματα ανά σελίδα';
 $labels['to_top'] = 'Στην κορυφή';
+$labels['open_in_tab'] = 'Άνοιγμα σε νέα καρτέλα';
+$labels['create_filter'] = 'Δημιουργία φίλτρου';
+$labels['sender_mail'] = 'Μηνύματα του αποστολέα';
+$labels['quick_reply'] = 'Απάντηση στο μήνυμα…';
