@@ -131,5 +131,4 @@ $labels['book_mail'] = 'From mail';
 $labels['add_to_contacts'] = 'Add to contacts';
 $labels['contact_saved'] = 'Contact saved';
 $labels['new_account'] = 'New mailbox';
-$labels['server_settings'] = 'Server settings';
 $labels['fill_required'] = 'Enter the address and the password';

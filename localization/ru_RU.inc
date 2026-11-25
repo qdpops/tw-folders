@@ -133,5 +133,4 @@ $labels['book_mail'] = 'Из писем';
 $labels['add_to_contacts'] = 'Добавить в контакты';
 $labels['contact_saved'] = 'Контакт сохранён';
 $labels['new_account'] = 'Новый почтовый ящик';
-$labels['server_settings'] = 'Настройки сервера';
 $labels['fill_required'] = 'Укажите адрес и пароль';
