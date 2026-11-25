@@ -37,6 +37,14 @@ class tw_folders extends rcube_plugin
             rcube_utils::setcookie('tw_lang', $_SESSION['language'], time() + 365 * 86400);
         }
 
+        // the compose panel loads mail/compose&_framed=1, but Roundcube redirects to compose&_id=… without _framed:
+        // the page then has the top bar and a full-page layout. The browser still says it is a frame.
+        if ($rcmail->task == 'mail' && $rcmail->action == 'compose' && empty($_REQUEST['_framed'])
+            && rcube_utils::request_header('Sec-Fetch-Dest') === 'iframe' && $rcmail->output instanceof rcmail_output_html
+        ) {
+            $rcmail->output->set_env('framed', 1);
+        }
+
         $this->add_texts('localization/', true); // the skin's templates and breeze.js use them on every page
         $rcmail->config->set('product_name', $this->gettext('product_name')); // config/custom.inc.php has one language
 
